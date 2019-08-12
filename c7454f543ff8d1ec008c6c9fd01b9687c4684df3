@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1565619734 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_wileyfox_kipper\nnonce 1565619733-A1BE68D493DE794917E1BA444DC98B490091C382\n\n0000000000000000000000000000000000000000 c7454f543ff8d1ec008c6c9fd01b9687c4684df3 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl1RdhYACgkQ8iL05i7N\nJTEy0Qf9ETkwE6aGof3fvS4Qe86AaOebWCo3Vb3cbbWbVrRbZzK4bArXkcv42aVn\nPpu3Rx7xqkjF8jhcOrmhiiaE3X40XK79E0bRVYLbMzMziv1+bNKcYRzq8Q/vjxkn\n9Ytus/bu2TSkz5XOroZTQsC04Cc4nL9Oc8fiE4w0ZtysCfKDJx2azVle/IupLDZ+\nbtESNvVf9iqI7tiQ/v5wYsM+b2CYi6H87d0VBvv6hBdWqxFzTH++8tQRBbbZf2lj\nuy6lNYoXcgZCxfN/L5VyYJz5jMYDQMKlD20Ay5rIBQLfQADHlFVe+95tfuuhIWya\neuKT0dugGdpoPeynRu7Z/RHcIVBTIQ\u003d\u003d\n\u003dCWg8\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
